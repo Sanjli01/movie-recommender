@@ -13,7 +13,6 @@ Enter a movie name to get 5 similar suggestions using cosine similarity on IMDB 
 #Features
 - 🔍 Get similar movie recommendations
 - 🎞 Displays posters and IMDB ratings
-- 🌓 Light/Dark theme toggle
 - ✅ Easy to deploy and run
 
 # How to Run
